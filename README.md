@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! 👋 I'm Amrutha Muralidhar a CS engineer passionate about NLP, ML, and Algorithms 🌟</h2>
+<h2 align="center">Hey there! 👋 I'm Amrutha Muralidhar🌟</h2>
 
 ###
 
